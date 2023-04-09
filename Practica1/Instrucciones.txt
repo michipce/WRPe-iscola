@@ -1,0 +1,4 @@
+    Construir un programa para que el robot siga la linea y no choque con el obstaculo,
+el escenario inical es el que aparaece en la imagen.
+Nota: recordar que hay que importar en open-Roberta el archivo XML y que
+estan todos los bloques necesarios, solo debeis combinarlos correctamente para que funcione.
